@@ -1,4 +1,4 @@
-# MachineLearning-SoftwareEngineering-group6
+# PandAI
 
 Our Member : 
 1. 2902726403 - Aldridge Hansel Robin
