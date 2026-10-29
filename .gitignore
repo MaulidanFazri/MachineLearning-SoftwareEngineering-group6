@@ -5,6 +5,7 @@ node_modules/
 # Build
 dist/
 coverage/
+web-build/
 *.tsbuildinfo
 
 # Environment
@@ -14,6 +15,31 @@ coverage/
 
 # Expo
 .expo/
+expo-env.d.ts
+.metro-health-check*
+
+# Native
+.kotlin/
+ios/
+android/
+*.orig.*
+*.jks
+*.p8
+*.p12
+*.key
+*.mobileprovision
 
 # Vercel
 .vercel/
+
+# Logs
+npm-debug.*
+yarn-debug.*
+yarn-error.*
+
+# System
+.DS_Store
+*.pem
+
+# Local tooling
+.claude/
