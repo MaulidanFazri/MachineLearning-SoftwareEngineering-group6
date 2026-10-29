@@ -1,0 +1,19 @@
+
+# Dependencies
+node_modules/
+
+# Build
+dist/
+coverage/
+*.tsbuildinfo
+
+# Environment
+.env
+.env.*
+!.env.example
+
+# Expo
+.expo/
+
+# Vercel
+.vercel/
